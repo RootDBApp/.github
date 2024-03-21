@@ -1,14 +1,15 @@
-
-[![RootDB](https://www.rootdb.fr/assets/logo_name_blue_500x250.png)]()
+![RootDB](https://www.rootdb.fr/assets/logo_name_blue_500x250.png)
 
 # RootDB
 
-* [RootDB](https://www.rootdb.fr) is a self-hosted reporting webapp.
-* This repository contains the definition of the official docker images available on [dockerhub](https://hub.docker.com/r/atomicwebsas/rootdb) and an installation script to help you install it without docker.
+[RootDB](https://www.rootdb.fr) is a self-hosted reporting webapp.
+
+![RootDB](https://www.rootdb.fr/screenshots/005.png)
+
 * Consult the documentation to setup RootDB with :
   * [Docker](https://documentation.rootdb.fr/install/install_with_docker.html) 
   * [Without Docker](https://documentation.rootdb.fr/install/install_without_docker.html) 
-* You can use this repository for bug report or features request.
+
 
 ## Support
 * Please consult the [roadmap](https://forum.rootdb.fr/d/6-roadmap) to know what is planned for the next releases.
